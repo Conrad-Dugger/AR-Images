@@ -1,0 +1,617 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 615,
+      "max": [
+        64.74943542480469,
+        71.83942413330078,
+        21.958011627197266
+      ],
+      "min": [
+        -64.74842071533203,
+        -45.07727813720703,
+        13.273265838623047
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 7380,
+      "componentType": 5126,
+      "count": 615,
+      "max": [
+        0.9029926061630249,
+        0.9164742231369019,
+        1.0
+      ],
+      "min": [
+        -0.9029926061630249,
+        -0.9164852499961853,
+        0.3930540680885315
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 615,
+      "max": [
+        1.0,
+        0.8777428865432739,
+        0.9152504205703735,
+        1.0
+      ],
+      "min": [
+        -0.5216639041900635,
+        -0.8687772154808044,
+        -0.9152501225471497,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 615,
+      "max": [
+        0.9499595165252686,
+        0.9631628394126892
+      ],
+      "min": [
+        0.022203713655471802,
+        0.03540736436843872
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 4920,
+      "componentType": 5126,
+      "count": 615,
+      "max": [
+        0.0,
+        0.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 3168,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 14760,
+      "componentType": 5126,
+      "count": 144,
+      "max": [
+        68.39533996582031,
+        53.856998443603516,
+        25.856502532958984
+      ],
+      "min": [
+        -68.37345886230469,
+        -65.04203033447266,
+        13.975597381591797
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 16488,
+      "componentType": 5126,
+      "count": 144,
+      "max": [
+        0.9301573038101196,
+        0.9934841990470886,
+        0.9869499206542969
+      ],
+      "min": [
+        -0.9305657744407654,
+        -0.9673793315887451,
+        -0.948681116104126
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 9840,
+      "componentType": 5126,
+      "count": 144,
+      "max": [
+        0.999970555305481,
+        0.7728999853134155,
+        0.9614048600196838,
+        1.0
+      ],
+      "min": [
+        -0.5688409805297852,
+        -0.7520260810852051,
+        -0.9886590838432312,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 9840,
+      "componentType": 5126,
+      "count": 144,
+      "max": [
+        0.9437050819396973,
+        0.8825565576553345
+      ],
+      "min": [
+        0.03449779748916626,
+        0.09227871894836426
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 10992,
+      "componentType": 5126,
+      "count": 144,
+      "max": [
+        0.0,
+        0.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12672,
+      "componentType": 5125,
+      "count": 828,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 18216,
+      "componentType": 5126,
+      "count": 22606,
+      "max": [
+        99.35916137695313,
+        99.35916137695313,
+        18.975780487060547
+      ],
+      "min": [
+        -99.35916137695313,
+        -99.35916137695313,
+        0.21924085915088654
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 289488,
+      "componentType": 5126,
+      "count": 22606,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 12144,
+      "componentType": 5126,
+      "count": 22606,
+      "max": [
+        1.0,
+        0.9976586103439331,
+        0.999995231628418,
+        1.0
+      ],
+      "min": [
+        -0.9956583380699158,
+        -0.9978684186935425,
+        -0.999973475933075,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 12144,
+      "componentType": 5126,
+      "count": 22606,
+      "max": [
+        0.8162379264831543,
+        0.9998636841773987
+      ],
+      "min": [
+        0.00013633561320602894,
+        0.00013633561320602894
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 192992,
+      "componentType": 5126,
+      "count": 22606,
+      "max": [
+        0.9616360664367676,
+        0.962565004825592
+      ],
+      "min": [
+        0.031686726957559586,
+        0.032615553587675095
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 15984,
+      "componentType": 5125,
+      "count": 132096,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 201,
+      "max": [
+        4.166666507720947
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 201,
+      "max": [
+        8.638885720324159e-17,
+        1.0,
+        8.4008694621457e-17,
+        1.0
+      ],
+      "min": [
+        -6.045805525379446e-17,
+        -0.8607420921325684,
+        -8.638885720324159e-17,
+        -0.4927273988723755
+      ],
+      "type": "VEC4"
+    }
+  ],
+  "animations": [
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 5,
+            "path": "rotation"
+          }
+        }
+      ],
+      "name": "Circle|EmptyAction",
+      "samplers": [
+        {
+          "input": 18,
+          "interpolation": "LINEAR",
+          "output": 19
+        }
+      ]
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "marvelmaster (https://sketchfab.com/marvelmaster)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/zelda-ocarina-of-time-light-medaillon-c886e5fed2574a3d95e3b2f6e102eedb",
+      "title": "Zelda - Ocarina of Time - Light Medaillon"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 544368,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 373840,
+      "byteOffset": 544368,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 560760,
+      "byteOffset": 918208,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 373840,
+      "byteOffset": 1478968,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 804,
+      "byteOffset": 1852808,
+      "name": "floatBufferViews"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3216,
+      "byteOffset": 1853612,
+      "byteStride": 16,
+      "name": "floatBufferViews"
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1856828,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/LightMedailon_sphere_mat_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "LightMedailon_sphere_mat",
+      "normalTexture": {
+        "index": 0,
+        "scale": 0.13427085876464845
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7835377915261933,
+          0.5028864580325685,
+          0.0003035269835488383,
+          1.0
+        ],
+        "metallicFactor": 0.9030208587646484,
+        "roughnessFactor": 0.09697914123535156
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Light_Medailon_angle_mat",
+      "normalTexture": {
+        "index": 0,
+        "scale": 0.08427085876464845
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7835377915261931,
+          0.5028864580325684,
+          0.00030352698354883817,
+          1.0
+        ],
+        "roughnessFactor": 0.09697914123535156
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "LightMedailon_Main_mat",
+      "normalTexture": {
+        "index": 0,
+        "scale": 0.028020858764648438
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.786365667693668,
+          0.5050298372344251,
+          0.00042974191338814147,
+          1.0
+        ],
+        "roughnessFactor": 0.09697914123535156
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Circle_LightMedailon_sphere_mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Circle_Light_Medailon_angle_mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TANGENT": 8,
+            "TEXCOORD_0": 9,
+            "TEXCOORD_1": 10
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Circle_LightMedailon_Main_mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TANGENT": 14,
+            "TEXCOORD_0": 15,
+            "TEXCOORD_1": 16
+          },
+          "indices": 17,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        -2.220446049250313e-16,
+        1.1102230246251565e-16,
+        -1.0,
+        0.0,
+        -0.004378555342555046,
+        0.9999904036521912,
+        2.2204247410777337e-16,
+        0.0,
+        0.9999904036521912,
+        0.004378555342555046,
+        -1.1005006787133563e-16,
+        0.0,
+        -8.975643157958984,
+        9.536609649658203,
+        0.6028150320053122,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "64a5cbadf1cd45138e564a89beb8f7a8.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "Object_2"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "Empty",
+      "rotation": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071067094802856
+      ]
+    },
+    {
+      "children": [
+        6,
+        7,
+        8
+      ],
+      "name": "Circle",
+      "rotation": [
+        -1.3234889800848443e-23,
+        -0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "Circle_LightMedailon_sphere_mat_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Circle_Light_Medailon_angle_mat_0"
+    },
+    {
+      "mesh": 2,
+      "name": "Circle_LightMedailon_Main_mat_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
