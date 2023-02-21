@@ -26,8 +26,8 @@
                 0.7071068286895752
             ],
             "translation" : [
-                -0.21545380353927612,
-                0.5566995739936829,
+                0.017792411148548126,
+                0.43184012174606323,
                 0
             ]
         }
@@ -122,29 +122,29 @@
         {
             "bufferView" : 0,
             "componentType" : 5126,
-            "count" : 338,
+            "count" : 356,
             "max" : [
                 0.0942462906241417,
                 0,
-                0.12871107459068298
+                0.12871108949184418
             ],
             "min" : [
                 -0.12511330842971802,
                 0,
-                -0.09048537909984589
+                -0.09048538655042648
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 338,
+            "count" : 356,
             "type" : "VEC3"
         },
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 338,
+            "count" : 356,
             "type" : "VEC2"
         },
         {
@@ -156,7 +156,7 @@
         {
             "bufferView" : 4,
             "componentType" : 5126,
-            "count" : 301,
+            "count" : 6,
             "max" : [
                 12.541666666666666
             ],
@@ -168,71 +168,71 @@
         {
             "bufferView" : 5,
             "componentType" : 5126,
-            "count" : 301,
+            "count" : 6,
             "type" : "VEC3"
         },
         {
             "bufferView" : 6,
             "componentType" : 5126,
-            "count" : 301,
+            "count" : 6,
             "type" : "VEC4"
         },
         {
             "bufferView" : 7,
             "componentType" : 5126,
-            "count" : 301,
+            "count" : 6,
             "type" : "VEC3"
         }
     ],
     "bufferViews" : [
         {
             "buffer" : 0,
-            "byteLength" : 4056,
+            "byteLength" : 4272,
             "byteOffset" : 0,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 4056,
-            "byteOffset" : 4056,
+            "byteLength" : 4272,
+            "byteOffset" : 4272,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 2704,
-            "byteOffset" : 8112,
+            "byteLength" : 2848,
+            "byteOffset" : 8544,
             "target" : 34962
         },
         {
             "buffer" : 0,
             "byteLength" : 1500,
-            "byteOffset" : 10816,
+            "byteOffset" : 11392,
             "target" : 34963
         },
         {
             "buffer" : 0,
-            "byteLength" : 1204,
-            "byteOffset" : 12316
+            "byteLength" : 24,
+            "byteOffset" : 12892
         },
         {
             "buffer" : 0,
-            "byteLength" : 3612,
-            "byteOffset" : 13520
+            "byteLength" : 72,
+            "byteOffset" : 12916
         },
         {
             "buffer" : 0,
-            "byteLength" : 4816,
-            "byteOffset" : 17132
+            "byteLength" : 96,
+            "byteOffset" : 12988
         },
         {
             "buffer" : 0,
-            "byteLength" : 3612,
-            "byteOffset" : 21948
+            "byteLength" : 72,
+            "byteOffset" : 13084
         }
     ],
     "buffers" : [
         {
-            "byteLength" : 25560,
+            "byteLength" : 13156,
             "uri" : "MedallionFire.bin"
         }
     ]
