@@ -1,0 +1,281 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.3.27",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "KHR_texture_transform"
+    ],
+    "extensionsRequired" : [
+        "KHR_texture_transform"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Cartridge KokirI Signed.001",
+            "rotation" : [
+                -0.19208823144435883,
+                0.19208823144435883,
+                0.1297406703233719,
+                0.9536097645759583
+            ]
+        }
+    ],
+    "animations" : [
+        {
+            "channels" : [
+                {
+                    "sampler" : 0,
+                    "target" : {
+                        "node" : 0,
+                        "path" : "rotation"
+                    }
+                }
+            ],
+            "name" : "Cartridge KokirI Signed.001Action",
+            "samplers" : [
+                {
+                    "input" : 7,
+                    "interpolation" : "LINEAR",
+                    "output" : 8
+                }
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "name" : "M_Catridge_Kokiri_plus OSRS grunge",
+            "normalTexture" : {
+                "index" : 0,
+                "scale" : 0.8999999761581421
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 1,
+                    "texCoord" : 1
+                },
+                "metallicFactor" : 0,
+                "metallicRoughnessTexture" : {
+                    "extensions" : {
+                        "KHR_texture_transform" : {
+                            "offset" : [
+                                0,
+                                0.550000011920929
+                            ],
+                            "scale" : [
+                                0.44999998807907104,
+                                0.44999998807907104
+                            ]
+                        }
+                    },
+                    "index" : 2
+                }
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Cube.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2,
+                        "TEXCOORD_1" : 3,
+                        "TEXCOORD_2" : 4,
+                        "COLOR_0" : 5
+                    },
+                    "indices" : 6,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "sampler" : 0,
+            "source" : 0
+        },
+        {
+            "sampler" : 1,
+            "source" : 1
+        },
+        {
+            "sampler" : 0,
+            "source" : 2
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "Grunge-Map_Grunge-5",
+            "uri" : "Grunge-Map_Grunge-5.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "TLoZ_PreLoad_Darkish",
+            "uri" : "TLoZ_PreLoad_Darkish.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Grunge-Map_Grunge-5",
+            "uri" : "Grunge-Map_Grunge-1.png"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 74487,
+            "max" : [
+                0.3844473659992218,
+                0.2960701286792755,
+                0.06990215182304382
+            ],
+            "min" : [
+                -0.3676759898662567,
+                -0.20237575471401215,
+                -0.03098173998296261
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 74487,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 74487,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5126,
+            "count" : 74487,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 74487,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5123,
+            "count" : 74487,
+            "normalized" : true,
+            "type" : "VEC4"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5125,
+            "count" : 390000,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5126,
+            "count" : 120,
+            "max" : [
+                4
+            ],
+            "min" : [
+                0.03333333333333333
+            ],
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 8,
+            "componentType" : 5126,
+            "count" : 120,
+            "type" : "VEC4"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 893844,
+            "byteOffset" : 0,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 893844,
+            "byteOffset" : 893844,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 595896,
+            "byteOffset" : 1787688,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 595896,
+            "byteOffset" : 2383584,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 595896,
+            "byteOffset" : 2979480,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 595896,
+            "byteOffset" : 3575376,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1560000,
+            "byteOffset" : 4171272,
+            "target" : 34963
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 480,
+            "byteOffset" : 5731272
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1920,
+            "byteOffset" : 5731752
+        }
+    ],
+    "samplers" : [
+        {
+            "magFilter" : 9729,
+            "minFilter" : 9987
+        },
+        {
+            "magFilter" : 9729,
+            "minFilter" : 9987,
+            "wrapS" : 33071,
+            "wrapT" : 33071
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 5733672,
+            "uri" : "CartridgeKokiri.bin"
+        }
+    ]
+}
