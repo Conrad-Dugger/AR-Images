@@ -14,4 +14,5 @@ AFRAME.registerComponent('markerhandler', {
                 aEntity.setAttribute('scale', scale);
             }
         });
-}});
+    }
+});
